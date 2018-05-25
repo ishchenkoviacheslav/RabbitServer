@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\RabbitMQ.Client.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\SharedClasses.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\RabbitMQ.Client.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\bin\Release\SharedClasses.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
