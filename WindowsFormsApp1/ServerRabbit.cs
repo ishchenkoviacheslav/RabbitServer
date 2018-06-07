@@ -32,6 +32,10 @@ namespace RabbitMQService
             consumer.Received += (model, ea) =>
             {
                 IBasicProperties props = ea.BasicProperties;
+                channel.BasicPublish(exchange: "", routingKey: props.ReplyTo, basicProperties: null, body: new byte[] { 1, 2, 3 });
+
+                return;
+                //IBasicProperties props = ea.BasicProperties;
                 if (!ClientsList.Exists((c) => c.QeueuName == props.ReplyTo))
                 {
                     ClientsList.Add(new ClientPeer() { QeueuName = props.ReplyTo, LastUpTime = DateTime.UtcNow });

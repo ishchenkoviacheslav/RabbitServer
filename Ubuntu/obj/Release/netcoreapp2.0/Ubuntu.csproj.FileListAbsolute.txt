@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Release\netcoreapp2.0\Ubuntu.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Release\netcoreapp2.0\Ubuntu.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Release\netcoreapp2.0\Ubuntu.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Release\netcoreapp2.0\Ubuntu.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Release\netcoreapp2.0\Ubuntu.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Release\netcoreapp2.0\Ubuntu.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Release\netcoreapp2.0\Ubuntu.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Release\netcoreapp2.0\Ubuntu.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Release\netcoreapp2.0\Ubuntu.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Release\netcoreapp2.0\SharedClasses.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Release\netcoreapp2.0\SharedClasses.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Release\netcoreapp2.0\Ubuntu.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Release\netcoreapp2.0\Ubuntu.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Release\netcoreapp2.0\Ubuntu.pdb

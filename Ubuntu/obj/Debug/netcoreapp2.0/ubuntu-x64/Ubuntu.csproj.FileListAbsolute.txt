@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\libhostpolicy.so
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\libhostfxr.so
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\SharedClasses.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\bin\Debug\netcoreapp2.0\ubuntu-x64\SharedClasses.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsService1\Ubuntu\obj\Debug\netcoreapp2.0\ubuntu-x64\Ubuntu.pdb
